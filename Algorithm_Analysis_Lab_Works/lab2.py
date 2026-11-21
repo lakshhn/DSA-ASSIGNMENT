@@ -1,3 +1,4 @@
+# Lakshay - 25BEC056
 # Lab 2: Prefix Averages (Quadratic vs Linear Time)
 
 import time

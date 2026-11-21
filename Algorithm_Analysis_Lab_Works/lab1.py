@@ -1,3 +1,4 @@
+# Lakshay - 25BEC056
 # Lab 1: Benchmarking Algorithmic Growth Rates
 
 import time
